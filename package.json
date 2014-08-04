@@ -61,7 +61,7 @@
        "parse5":  "~1.0.0",
        "nwmatcher": "~1.3.2",
        "request": "2.x",
-       "w3c-xmlhttprequest": "https://github.com/kapouer/node-xmlhttprequest-1/archive/24703c2.tar.gz",
+       "w3c-xmlhttprequest": "https://github.com/kapouer/node-xmlhttprequest-1/archive/f69654d1.tar.gz",
        "cssom": "~0.3.0",
        "cssstyle": "~0.2.9",
        "contextify": "~0.1.5"
